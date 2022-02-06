@@ -5,18 +5,25 @@ Come join me on my journey of Wes Bos's 30 Day Vanilla JS Code Challenge! Where 
 ### Day 2 Challenge of Javascript30
 
 ## Javascript & CSS Clock
+----
 
+![jscssclock](images/jscssclock.png)
 
+Demo: 
+![jscssclockgif](images/jscssdemo1.gif)
 
-### What I learned:
+I changed the background and colouring of the clock and clocks hands so it stands out =)
 
-
-### End Results
-
-Screenshot:
-![jscssclock]()
-
-Demo:
-![]()
+----
+### What I learned/refresher:
+- transform-origin
+  - CSS attribute can be used to determine where a given transform 'pivots from.
+- transition-timing-function
+  - adding custom transition effect
+- setInterval
+  - perform a function at a given interval
+- Date object / Date.now()
+  - use instances .getSeconds/.getMinutes/.getHours and calculated the corresponding degree based off the time
+- style
 
 Starter code from [Javascript 30 Challenge](https://github.com/wesbos/JavaScript30)
