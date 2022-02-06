@@ -14,7 +14,7 @@ Come join me on my journey of Wes Bos's 30 Day Vanilla JS Code Challenge! Where 
 ### End Results
 
 Screenshot:
-![]()
+![jscssclock]()
 
 Demo:
 ![]()
